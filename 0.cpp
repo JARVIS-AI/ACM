@@ -4,6 +4,7 @@
 #include<iostream>
 #include<string>
 #include<queue>
+#include<vector>
 #include<map>
 #include<cmath>
 #include<stack>
@@ -39,6 +40,7 @@ using namespace std;
 #define TO_STRING1( x ) #x
 
 
+//你好
 
 int main() {
     char s[90] = "hello";
